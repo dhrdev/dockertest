@@ -1,5 +1,5 @@
-# Getting started
+# TESTING
 
-This repository is a sample application for users following the getting started guide at https://docs.docker.com/get-started/.
+This is just a test of updating a .m file from the shell inside a docker container. If everything went OK, then this message should be updated and displayed correctly.
 
-The application is based on the application from the getting started tutorial at https://github.com/docker/getting-started
+Good luck future Dany. Enjoy the process.
